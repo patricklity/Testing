@@ -17,7 +17,7 @@ Table of contents
 
          -  `Other Search`_
 
-.. _CMS USER GUIDE: README.md
+.. _CMS USER GUIDE: README.rst
 .. _Banner Module Category: 1.-send-mms-module/README.rst
 .. _Banner Module: 1.-send-mms-module/testing-by-tony/README.md
 .. _Buttons: 1.-send-mms-module/testing-by-tony/untitled-1/README.md
