@@ -1,2 +1,3 @@
 # Testing
-* [Link](Links)
+-  `Link`_
+.. _Link: Links
